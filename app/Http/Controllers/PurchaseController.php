@@ -24,6 +24,6 @@ class PurchaseController extends Controller
     public function import()
     {
     	Excel::import(new PurchaseImport(), request()->file('import'));
-        return redirect->route('purchases');
+        return redirect()->route('purchases');
     }
 }

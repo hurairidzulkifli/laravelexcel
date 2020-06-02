@@ -7,7 +7,6 @@
 	<div class="card-header">Customers</div>
 		<div class="card-body">
 			<a href="{{ route('customers.export') }}" class="btn btn-primary">Export Excel</a>
-			<a href="{{ route('purchase.import') }}" class="btn btn-primary">Export Excel</a>
 			<br><br>
 		<div class="table-responsive">
 			<table class="table table-bordered">
