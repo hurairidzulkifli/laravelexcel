@@ -13,6 +13,10 @@ Simple Import & Export Excel using Maatwebsite/Laravel Excel 3.1
 Import with relationship between tables
 Export to PDF & Excel
 
+## Screenshot
+![screencapture-laravelexcel-test-purchases-2020-06-02-12_15_39](https://user-images.githubusercontent.com/38495309/83488538-999bac80-a4df-11ea-8acd-dce3aed62cb2.png)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
