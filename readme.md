@@ -20,6 +20,8 @@ Table Purchase
 
 ## Excel Used for Import With Relationship
 First Name & Last Name from Customers table from Excel are used to determine the id for the user in Purchase table.
+![id](https://user-images.githubusercontent.com/38495309/83488729-e8e1dd00-a4df-11ea-9c43-4fc577a8ce64.png)
+
 
 
 ## About Laravel
