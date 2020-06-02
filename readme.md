@@ -14,7 +14,12 @@ Import with relationship between tables
 Export to PDF & Excel
 
 ## Screenshot
+Table Purchase
 ![screencapture-laravelexcel-test-purchases-2020-06-02-12_15_39](https://user-images.githubusercontent.com/38495309/83488538-999bac80-a4df-11ea-8acd-dce3aed62cb2.png)
+
+
+## Excel Used for Import With Relationship
+First Name & Last Name from Customers table from Excel are used to determine the id for the user in Purchase table.
 
 
 ## About Laravel
